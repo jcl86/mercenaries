@@ -2,7 +2,7 @@
 
 Deck building de batallas
 
-Cada partida se compone de 3 batallas.
+Cada partida se compone de x batallas (número impar, puede ser 3, 5, o más).
 
 Cada jugador comienza la batalla con una mano de 8 cartas. En su turno, puede jugar una carta. En el momento que durante un turno no juege cartas, se planta. En el momento que los dos jugadores pasen, se comparan las fuerzas, y gana la batalla el que más puntos haya obtenido.
 
